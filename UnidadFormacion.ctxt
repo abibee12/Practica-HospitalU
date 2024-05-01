@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UnidadFormacion
+comment1.params=nombre
+comment1.target=UnidadFormacion(java.lang.String)
+comment2.params=estudiante
+comment2.target=void\ agregarEstudiante(Estudiante)
+comment3.params=
+comment3.target=java.util.List\ getEstudiantes()
+comment4.params=medico
+comment4.target=void\ agregarPersonalMedico(PersonalMedico)
+comment5.params=
+comment5.target=java.util.List\ getPersonalMedico()
+comment6.params=clase
+comment6.target=void\ agregarClaseFormacion(ClaseFormacion)
+comment7.params=
+comment7.target=java.util.List\ getClasesDisponibles()
+comment8.params=
+comment8.target=java.lang.String\ getNombre()
+comment9.params=nombre
+comment9.target=void\ setNombre(java.lang.String)
+numComments=10

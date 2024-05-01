@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Administracion
+comment1.params=
+comment1.target=Administracion()
+comment2.params=
+comment2.target=Direccion\ getDireccion()
+comment3.params=direccion
+comment3.target=void\ setDireccion(Direccion)
+comment4.params=
+comment4.target=DocumentacionClinica\ getDocumentacionClinica()
+comment5.params=documentacionClinica
+comment5.target=void\ setDocumentacionClinica(DocumentacionClinica)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=nombre\ edad\ unidad\ turno
+comment1.target=Empleado(java.lang.String,\ int,\ Unidad,\ Turno)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=Unidad\ getUnidad()
+comment4.params=
+comment4.target=Agenda\ getAgenda()
+comment5.params=
+comment5.target=Turno\ getTurno()
+numComments=6

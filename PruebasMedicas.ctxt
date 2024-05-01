@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PruebasMedicas
+comment1.params=tipoPrueba\ descripcion
+comment1.target=PruebasMedicas(PruebasMedicas.TipoPrueba,\ java.lang.String)
+comment2.params=
+comment2.target=PruebasMedicas.TipoPrueba\ getTipoPrueba()
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment4.params=
+comment4.target=java.lang.String\ getResultados()
+comment5.params=resultados
+comment5.target=void\ setResultados(java.lang.String)
+comment6.params=nuevaFecha
+comment6.target=boolean\ programarCita(java.time.LocalDateTime)
+comment7.params=fecha
+comment7.target=boolean\ esDiaLaborable(java.time.LocalDate)
+comment8.params=
+comment8.target=java.util.HashMap\ generarOpcionesDeCitas()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cafeteria
+comment1.params=
+comment1.target=Cafeteria()
+comment2.params=
+comment2.target=void\ inicializarMenu()
+comment3.params=
+comment3.target=void\ mostrarMenuComidas()
+comment4.params=
+comment4.target=void\ mostrarMenuBebidas()
+comment5.params=
+comment5.target=boolean\ estaAbierta()
+numComments=6

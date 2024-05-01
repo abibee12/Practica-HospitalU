@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UnidadesMedicasEspecializadas
+comment1.params=
+comment1.target=UnidadesMedicasEspecializadas()
+comment2.params=
+comment2.target=void\ crearUnidadesEspecializadas()
+comment3.params=paciente\ nombreUnidad
+comment3.target=void\ atenderPaciente(Pacientes,\ java.lang.String)
+comment4.params=
+comment4.target=java.util.List\ getUnidades()
+numComments=5

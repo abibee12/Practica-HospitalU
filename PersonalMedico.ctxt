@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PersonalMedico
+comment1.params=nombre\ edad\ unidad\ especialidad\ turno
+comment1.target=PersonalMedico(java.lang.String,\ int,\ Unidad,\ Especialidad,\ Turno)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=Especialidad\ getEspecialidad()
+numComments=4

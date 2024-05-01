@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hospitalizacion
+comment1.params=
+comment1.target=Hospitalizacion()
+comment2.params=paciente\ numeroHabitacion\ procedimientoMedico
+comment2.target=boolean\ darAltaPaciente(Paciente,\ int,\ java.lang.String)
+comment3.params=numeroHabitacion
+comment3.target=boolean\ darBajaPaciente(int)
+comment4.params=
+comment4.target=void\ imprimirListadoOcupacion()
+numComments=5

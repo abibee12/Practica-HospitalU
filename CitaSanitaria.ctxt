@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CitaSanitaria
+comment1.params=empleado\ paciente\ turno\ fecha
+comment1.target=CitaSanitaria(Empleado,\ Paciente,\ Turno,\ java.util.Date)
+comment2.params=
+comment2.target=Empleado\ getEmpleado()
+comment3.params=
+comment3.target=Paciente\ getPaciente()
+comment4.params=
+comment4.target=Turno\ getTurno()
+comment5.params=
+comment5.target=java.util.Date\ getFecha()
+comment6.params=
+comment6.target=Especialidad\ getEspecialidadDeMedico()
+numComments=7

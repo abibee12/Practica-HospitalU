@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Urgencias
+comment1.params=
+comment1.target=Urgencias()
+comment2.params=paciente
+comment2.target=void\ recibirPaciente(Pacientes)
+comment3.params=
+comment3.target=void\ atenderPaciente()
+comment4.params=paciente
+comment4.target=void\ realizarEvaluacionInicial(Pacientes)
+comment5.params=paciente
+comment5.target=void\ realizarTratamiento(Pacientes)
+numComments=6

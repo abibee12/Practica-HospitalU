@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConsultasExternas
+comment1.params=
+comment1.target=ConsultasExternas()
+comment2.params=cita
+comment2.target=void\ agregarCita(CitaSanitaria)
+comment3.params=
+comment3.target=void\ mostrarTodasLasCitas()
+numComments=4

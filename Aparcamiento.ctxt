@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aparcamiento
+comment1.params=numNiveles\ capacidadPorNivel
+comment1.target=Aparcamiento(int,\ int)
+comment2.params=empleado
+comment2.target=void\ agregarEmpleado(Aparcamiento.Empleado)
+comment3.params=
+comment3.target=void\ mostrarEstadoAparcamiento()
+comment4.params=descripcion
+comment4.target=void\ resolverIncidencia(java.lang.String)
+numComments=5
